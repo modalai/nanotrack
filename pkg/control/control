@@ -1,0 +1,9 @@
+Package: nanotracker
+Version: 0.1.0
+Section: base
+Priority: optional
+Architecture: arm64
+Depends:
+Conflicts:
+Maintainer: cliff@modalai.com
+Description: NanoTrack API, NCNN object tracker
